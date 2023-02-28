@@ -1,0 +1,15 @@
+.squareBox {
+  width: 120px;
+  height: 120px;
+  background-color: green;
+  margin: 20px;
+  padding: 10px;
+  border-right: 4px solid red;
+  border-left: 4px solid blue;
+  border-top: 4px solid yellow;
+  border-bottom: 4px solid yellow;
+}
+
+.squareBox p{
+    font-size: 16px;
+}
